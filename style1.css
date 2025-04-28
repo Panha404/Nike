@@ -1,0 +1,136 @@
+.Logo {
+    width: 60px;
+    height: 55px;
+    position: absolute;
+    top: 10px;
+    left: 30px;
+}
+
+.Home {
+    color: black;
+    text-decoration: none;
+    border: none;
+    position: absolute;
+    top: 25px;
+    left: 9.9cm;
+    font-size: large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.space0 {
+    position: absolute;
+    top: 56px;
+    left: 21.6cm;
+    font-weight: bolder;
+}
+
+.Men {
+    color: black;
+    text-decoration: none;
+    border: none;
+    position: absolute;
+    top: 25px;
+    left: 11.1cm;
+    font-size: large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.space1 {
+    position: absolute;
+    top: 56px;
+    left: 23.5cm;
+    font-weight: bolder;
+}
+
+.Women {
+    color: black;
+    text-decoration: none;
+    border: none;
+    position: absolute;
+    top: 25px;
+    left: 12cm;
+    font-size: large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.space2 {
+    position: absolute;
+    top: 56px;
+    left: 26cm;
+    font-weight: bolder;
+}
+
+.Sport {
+    color: black;
+    text-decoration: none;
+    border: none;
+    position: absolute;
+    top: 25px;
+    left: 13.2cm;
+    font-size: large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.space3 {
+    position: absolute;
+    top: 56px;
+    left: 27.9cm;
+    font-weight: bolder;
+}
+
+.Contact {
+    color: black;
+    text-decoration: none;
+    border: none;
+    position: absolute;
+    top: 25px;
+    left: 14.1cm;
+    font-size: large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.img1 {
+    display: flex;
+    position: absolute;
+    top: 4.3cm;
+    left: 8cm;
+    width: 1300px;
+    height: 700px;
+    border-radius: 25px;
+}
+
+.Limited {
+    font-family:serif;
+    font-size: 35px;
+    position: absolute;
+    font-weight: 500;
+    top: 25.5cm;
+    left: 7cm;
+    color: black;
+    text-decoration: line-through 1.5px;
+}
+
+.Offer {
+    display: flex;
+    position: absolute;
+    top: 29cm;
+    left: 4cm;
+    width: 500px;
+    height: auto;
+    border-radius: 25px;
+}
+.Promo {
+    font-family:serif;
+    font-size: 35px;
+    position: absolute;
+    font-weight: 500;
+    top: 26.6cm;
+    left: 8.4cm;
+    color: black;
+    text-decoration: line-through 1.5px;
+}
